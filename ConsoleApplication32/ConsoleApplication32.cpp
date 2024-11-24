@@ -121,5 +121,4 @@ int main()
     cout << "Element extracted: " << pq.PullHighestPriorityElement() << "\n";
 
     pq.Show();
-
 }
